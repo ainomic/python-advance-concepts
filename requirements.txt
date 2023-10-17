@@ -1,0 +1,6 @@
+ipykernel
+faker
+arrow
+pydantic
+ratelimit
+requests
